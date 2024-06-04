@@ -1,13 +1,7 @@
-import Main from './components/Main';
-
 import './App.css';
 
 const App = () => {
-    return (
-        <div>
-            <Main />
-        </div>
-    );
+     return  <div> Hello World</div>
 };
 
-export default App;
+export default App
